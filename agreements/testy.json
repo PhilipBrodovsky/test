@@ -23,7 +23,7 @@
     }
   ],
   "version": 1,
-  "fields": [],
+  "fields": [{"fieldType": "select", "name": "items", "options": [{"value", "val1"},{"value", "val2"}]}],
   "conditions": [],
   "wizard": {
     "sections": {
