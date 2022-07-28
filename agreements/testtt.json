@@ -1,0 +1,42 @@
+{
+  "id": "h0_xvpgbWePaIE2Y12zuJ",
+  "knowledgeBases": [],
+  "name": "testtt",
+  "parsed": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "src": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "version": 1,
+  "fields": [],
+  "conditions": [],
+  "wizard": {
+    "sections": {
+      "byId": {},
+      "allIds": []
+    },
+    "steps": {
+      "byId": {},
+      "allIds": []
+    },
+    "questions": {
+      "byId": {},
+      "allIds": []
+    }
+  }
+}
