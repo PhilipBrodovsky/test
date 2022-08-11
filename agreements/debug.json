@@ -1,0 +1,42 @@
+{
+  "id": "zZz_8Rx86t8w39EUQHvWO",
+  "knowledgeBases": [],
+  "name": "debug",
+  "parsed": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "src": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "version": 1,
+  "fields": [],
+  "conditions": [],
+  "wizard": {
+    "sections": {
+      "byId": {},
+      "allIds": []
+    },
+    "steps": {
+      "byId": {},
+      "allIds": []
+    },
+    "questions": {
+      "byId": {},
+      "allIds": []
+    }
+  }
+}
