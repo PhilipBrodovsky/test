@@ -1,0 +1,176 @@
+{
+  "id": "yiaq3KHQ0XEZeeLhpGJDW",
+  "knowledgeBases": [],
+  "name": "copyOfadvisor",
+  "parsed": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "src": [
+    {
+      "type": "b",
+      "style": {
+        "fontWeight": "normal"
+      },
+      "children": [
+        {
+          "type": "b",
+          "style": {
+            "fontWeight": "normal"
+          },
+          "children": [
+            {
+              "type": "b",
+              "style": {
+                "fontWeight": "normal"
+              },
+              "children": [
+                {
+                  "type": "b",
+                  "style": {
+                    "fontWeight": "normal"
+                  },
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "type": "signature",
+                          "children": [
+                            {
+                              "text": ""
+                            }
+                          ]
+                        },
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "version": 1,
+  "fields": [
+    {
+      "id": "KTdmUw3w11qXWeCrEEwxn",
+      "name": "x",
+      "type": 3,
+      "options": [
+        {
+          "label": "abc",
+          "value": 1,
+          "kb": "ddd"
+        },
+        {
+          "label": "def",
+          "value": 2,
+          "kb": "dddd"
+        }
+      ]
+    }
+  ],
+  "conditions": [],
+  "wizard": {
+    "sections": {
+      "byId": {
+        "eTSpGRMEw7BnvdNTZrXo2": {
+          "steps": [
+            "3hLDEICMvnyZ4WI5tZUpb"
+          ],
+          "name": "default name",
+          "id": "eTSpGRMEw7BnvdNTZrXo2"
+        }
+      },
+      "allIds": [
+        "eTSpGRMEw7BnvdNTZrXo2"
+      ]
+    },
+    "steps": {
+      "byId": {
+        "hzZCVyOLFcyCCewYpFDkx": {
+          "name": "new step",
+          "questions": [
+            "-oIg718SItkgTN_R68H9w"
+          ],
+          "id": "hzZCVyOLFcyCCewYpFDkx"
+        },
+        "qZQNYTI5fQesj10qgaEkb": {
+          "name": "Name",
+          "questions": [
+            "NsVs0Z5zpoHFdlpm-Suhh",
+            "CaTlbuKUTWGSXayPFOHqU",
+            "PqciwTuKuCl3tie0Rgv-A"
+          ],
+          "id": "qZQNYTI5fQesj10qgaEkb"
+        },
+        "8R_p2LLM5HbLsJdMEvnej": {
+          "name": "new step",
+          "questions": [
+            "Jdfkt6hXZi4u5VEClyfYp"
+          ],
+          "id": "8R_p2LLM5HbLsJdMEvnej"
+        },
+        "j_KnTe229frFWPbAcG157": {
+          "name": "new step",
+          "questions": [
+            "qfxlFRbQ4UGeekIuwggp6"
+          ],
+          "id": "j_KnTe229frFWPbAcG157"
+        },
+        "06LxQtROzooyvKz3GHJrR": {
+          "name": "new step",
+          "questions": [],
+          "id": "06LxQtROzooyvKz3GHJrR"
+        },
+        "3hLDEICMvnyZ4WI5tZUpb": {
+          "name": "new step",
+          "questions": [
+            "062BhzzFTrs3NcnwDiIdM"
+          ],
+          "id": "3hLDEICMvnyZ4WI5tZUpb"
+        }
+      },
+      "allIds": [
+        "hzZCVyOLFcyCCewYpFDkx",
+        "qZQNYTI5fQesj10qgaEkb",
+        "8R_p2LLM5HbLsJdMEvnej",
+        "j_KnTe229frFWPbAcG157",
+        "06LxQtROzooyvKz3GHJrR",
+        "3hLDEICMvnyZ4WI5tZUpb"
+      ]
+    },
+    "questions": {
+      "byId": {
+        "062BhzzFTrs3NcnwDiIdM": {
+          "id": "062BhzzFTrs3NcnwDiIdM",
+          "texts": [
+            {
+              "text": "new question?",
+              "id": "q8_r72nrhppmjx-Fb_hTc"
+            }
+          ],
+          "fieldId": "KTdmUw3w11qXWeCrEEwxn"
+        }
+      },
+      "allIds": [
+        "062BhzzFTrs3NcnwDiIdM"
+      ]
+    }
+  }
+}
