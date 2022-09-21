@@ -1,0 +1,100 @@
+{
+  "id": "tZOb_EDx2hV_nlowyxen_",
+  "knowledgeBases": [],
+  "name": "copyOfn",
+  "parsed": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "src": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "version": 1,
+  "fields": [
+    {
+      "id": "name",
+      "type": "string",
+      "name": "name",
+      "optionCounter": 1,
+      "layer": "owner"
+    },
+    {
+      "id": "spAddress",
+      "type": 6,
+      "name": "spAddress",
+      "optionCounter": 1,
+      "layer": "owner"
+    },
+    {
+      "id": "address",
+      "type": 6,
+      "name": "address",
+      "optionCounter": 1,
+      "layer": "owner"
+    },
+    {
+      "id": "usState",
+      "type": 0,
+      "name": "usState",
+      "optionCounter": 1,
+      "layer": "owner"
+    },
+    {
+      "id": "fullName",
+      "type": 0,
+      "name": "fullName",
+      "optionCounter": 1,
+      "layer": "owner"
+    },
+    {
+      "id": "email",
+      "type": 0,
+      "name": "email",
+      "optionCounter": 1,
+      "layer": "owner"
+    },
+    {
+      "id": "accountName",
+      "type": 0,
+      "name": "accountName",
+      "optionCounter": 1,
+      "layer": "owner"
+    },
+    {
+      "id": "title",
+      "type": 0,
+      "name": "title",
+      "optionCounter": 1,
+      "layer": "owner"
+    }
+  ],
+  "conditions": [],
+  "wizard": {
+    "sections": {
+      "byId": {},
+      "allIds": []
+    },
+    "steps": {
+      "byId": {},
+      "allIds": []
+    },
+    "questions": {
+      "byId": {},
+      "allIds": []
+    }
+  },
+  "docShareType": "AGREEMENT"
+}
